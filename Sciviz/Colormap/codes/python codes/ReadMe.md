@@ -13,7 +13,7 @@
 
   
 
-**Description of each file:**
+## **Description of each file:**
 
 \- animation.py \- Creates Animation GIFs for sampled days.  
 \- get\_day.py \- Used to return dates of the day index.  
@@ -25,7 +25,7 @@
 \- vs\_2005.nc \= dataset for wind-speed variable  
 \- pr\_2005.nc \= dataset for precipitation amount variable
 
-**Dependencies to install beforehand :**
+## **Dependencies to install beforehand :**
 
 * pip install numpy  
 * pip install matplotlib  
